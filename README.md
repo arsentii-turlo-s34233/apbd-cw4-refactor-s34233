@@ -59,3 +59,4 @@ Student powinien:
 - Zakładamy, że obecna logika działa poprawnie. Refaktoryzacja ma poprawić jakość kodu, a nie zmienić wynik działania z perspektywy klienta.
 # apbd-cw4-refactor-s34233
 # apbd-cw4-refactor-s34233
+# apbd-cw4-refactor-s34233
