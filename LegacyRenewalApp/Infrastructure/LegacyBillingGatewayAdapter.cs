@@ -4,7 +4,7 @@ namespace LegacyRenewalApp.Infrastructure;
 
 public class LegacyBillingGatewayAdapter : IBillingGateway
 {
-    public void SaveInvoice(RenewalInvoice invoice)
+    public void SendInvoice(RenewalInvoice invoice)
     {
         LegacyBillingGateway.SaveInvoice(invoice);
     }
